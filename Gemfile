@@ -13,7 +13,6 @@ gem 'bootstrap-sass', '~> 3.3.1'
 gem "paperclip", "~> 4.2"
 
 group :production do 
-	gem 'pg'
 	gem 'rails_12factor'
 end
 
